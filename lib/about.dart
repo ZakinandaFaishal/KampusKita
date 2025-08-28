@@ -21,7 +21,7 @@ class AboutPage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              'Aplikasi KampusKita merupakan aplikasi yang digunakan untuk pendataan mahasiswa.',
+              'Aplikasi KampusMu merupakan aplikasi yang digunakan untuk pendataan mahasiswa.',
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.grey,
